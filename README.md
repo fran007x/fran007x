@@ -1,5 +1,3 @@
-## Hi there 👋
-
 <h1 align="center">Fran</h1>
 <h3 align="center">Analyst IT Student • Backend & Web Development</h3>
 
@@ -31,14 +29,18 @@ I enjoy working with logic, data and clean architectures, understanding how thin
 
 ## GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=airtin010&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api?username=fran007x&show_icons=true&theme=tokyonight&hide_border=true" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fran007x&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
 
 ## Contact
 <p align="center">
-  <a href="mailto:franpru15032001@gmail.com">
-    <img src="https://img.shields.io/badge/Email-2F2F2F?style=for-the-badge&logo=gmail" />
-  </a>
+<a href="https://mail.google.com/mail/?view=cm&fs=1&to=franpru15032001@gmail.com" target="_blank">
+  <img src="https://img.shields.io/badge/Email-2F2F2F?style=for-the-badge&logo=gmail" />
+</a>
 </p>
