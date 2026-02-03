@@ -1,16 +1,44 @@
 ## Hi there 👋
 
-<!--
-**fran007x/fran007x** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h1 align="center">Fran</h1>
+<h3 align="center">Analyst IT Student • Backend & Web Development</h3>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## About me
+IT student focused on backend development and solid fundamentals.  
+I enjoy working with logic, data and clean architectures, understanding how things work behind the scenes.
+
+---
+
+## Core Technologies
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,bootstrap,js,cs,sql,git,dotnet" />
+</p>
+
+---
+
+## What I work with
+- **C#** — object-oriented programming and backend logic  
+- **ASP.NET / MVC** — structured web applications  
+- **Clean Architecture** — separation of concerns and maintainable design  
+- **SQL** — queries, relationships and data handling  
+- **JavaScript** — frontend logic and interactivity  
+- **HTML & CSS** — structure and layout  
+- **Bootstrap** — responsive layouts and components  
+
+---
+
+## GitHub Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=airtin010&show_icons=true&theme=tokyonight&hide_border=true" />
+</p>
+
+---
+
+## Contact
+<p align="center">
+  <a href="mailto:franpru15032001@gmail.com">
+    <img src="https://img.shields.io/badge/Email-2F2F2F?style=for-the-badge&logo=gmail" />
+  </a>
+</p>
