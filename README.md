@@ -11,7 +11,7 @@ I enjoy working with logic, data and clean architectures, understanding how thin
 
 ## Core Technologies
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,bootstrap,js,cs,dotnet,git&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=html,css,bootstrap,js,cs,dotnet,git,java&theme=dark" />
 </p>
 
 ---
