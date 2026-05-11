@@ -1,4 +1,4 @@
-<h1 align="center">Fran</h1>
+
 <h3 align="center">Analyst IT Student • Backend & Web Development</h3>
 
 ---
