@@ -16,14 +16,17 @@ I enjoy working with logic, data and clean architectures, understanding how thin
 
 ---
 
-## What I work with
-- **C#** — object-oriented programming and backend logic  
-- **ASP.NET / MVC** — structured web applications  
-- **Clean Architecture** — separation of concerns and maintainable design  
-- **SQL** — queries, relationships and data handling  
-- **JavaScript** — frontend logic and interactivity  
-- **HTML & CSS** — structure and layout  
-- **Bootstrap** — responsive layouts and components  
+## Technologies & Skills
+
+- **C#, Java**
+- **ASP.NET MVC, Spring Boot**
+- **Object-Oriented Programming (OOP)**
+- **Design Patterns**
+- **Clean Architecture**
+- **SQL & Relational Databases**
+- **JavaScript**
+- **HTML, CSS, Bootstrap**
+- **Git & GitHub**
 
 ---
 
